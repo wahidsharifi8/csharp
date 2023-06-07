@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\textBoxTest\bin\Debug\net6.0-windows\textBoxTest.exe
+C:\Users\user\source\repos\textBoxTest\bin\Debug\net6.0-windows\textBoxTest.deps.json
+C:\Users\user\source\repos\textBoxTest\bin\Debug\net6.0-windows\textBoxTest.runtimeconfig.json
+C:\Users\user\source\repos\textBoxTest\bin\Debug\net6.0-windows\textBoxTest.dll
+C:\Users\user\source\repos\textBoxTest\bin\Debug\net6.0-windows\textBoxTest.pdb
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\textBoxTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\textBoxTest.Form1.resources
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\textBoxTest.csproj.GenerateResource.cache
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\textBoxTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\textBoxTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\textBoxTest.AssemblyInfo.cs
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\textBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\textBoxTest.dll
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\refint\textBoxTest.dll
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\textBoxTest.pdb
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\textBoxTest.genruntimeconfig.cache
+C:\Users\user\source\repos\textBoxTest\obj\Debug\net6.0-windows\ref\textBoxTest.dll
